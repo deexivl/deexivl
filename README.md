@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 My name is Deexi <br>🔭 I'm currently learning Javascript <br>🧩 I'm intrested in web-development<br><br><br>
+👋 My name is Deexi <br>.🌸Beginner UI/UX Designer | Learning Figma + User-Centered Design  <br>💻 Exploring how to turn ideas into smooth, beautiful interfaces <br><br><br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Deexivl&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
